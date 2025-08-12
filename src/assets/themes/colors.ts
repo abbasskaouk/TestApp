@@ -1,0 +1,18 @@
+export const colors = {
+  blue: '#0000FF',
+  lightBlue: '#cecefdff',
+  white: '#FFFFFF',
+  black: '#000000',
+  success: '#2E7D32',
+  lightGrey: '#8E9094',
+  lightGray: '#E7E7E7',
+  slateGrey: '#5C5E61',
+  crimsonRed: '#F04438',
+  paleGray: '#c9c8c855',
+  charcoalGrey: '#2A2B2D',
+  lightOrange: '#FFA500',
+  lighterGray: '#c9c8c8ff',
+  lightLavenderGray: '#e3e8f5',
+  overlay: 'rgba(255,255,255,0.85)',
+  semiTransparentWhite: 'rgba(255,255,255,0.55)',
+};

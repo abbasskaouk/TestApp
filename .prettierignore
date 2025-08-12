@@ -1,0 +1,10 @@
+node_modules/
+android/
+ios/
+*.lock
+*.log
+coverage/
+build/
+dist/
+*.min.js
+*.min.css
